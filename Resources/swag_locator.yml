@@ -1,0 +1,4 @@
+txtUsername: //input[@id="user-name"]
+txtPassword: //input[@id="password"]
+btnLogin:   //input[@id="login-button"]
+errMsg:      //div[@class="error-message-container error"]
